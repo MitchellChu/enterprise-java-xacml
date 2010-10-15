@@ -3,6 +3,4 @@
 
 = Current Status =
 
-The first drop was released! Please access http://code.google.com/p/enterprise-java-xacml/downloads/list to download release 0.0.14.
-
-Currently, there still some issues were not resolved, please go to "Issues" page and check those issues with label "0.0.14" for details.
+Please download the latest source code 0.0.14 r258 from http://code.google.com/p/enterprise-java-xacml/downloads/list.
